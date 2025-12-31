@@ -1,4 +1,4 @@
-## Hi there 👋
+## My favorite tools and technologies
 
 <!--
 **solidusite/solidusite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,nuxt,vue,tailwind,supabase,elasticsearch,mysql,php,docker,html,vscode,notion,cloudflare,github,npm)](https://skillicons.dev)
