@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,nuxt,vue,tailwind,supabase,elasticsearch,mysql,php,docker,html,vscode,notion,cloudflare,github,npm)](https://skillicons.dev)
+
+## My certificates
+![nuxt](./cert-nuxt-450.jpg)
