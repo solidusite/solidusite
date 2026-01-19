@@ -1,3 +1,5 @@
+<a href="https://nuxters.nuxt.com/solidusite"><img src="https://nuxters.nuxt.com/__og-image__/image/Solidusite/og.png" alt="Francesco Mussoni on Nuxters" width="100%" /></a>
+
 ## My favorite tools and technologies
 
 <!--
